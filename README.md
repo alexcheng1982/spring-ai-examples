@@ -8,5 +8,5 @@ To run these Jupyter notebooks, you need to have [Kotlin kernel](https://github.
 
 ## RAG
 
-* [PDF Q&A](./rag/pdf-qa.ipynb)
+* [PDF Q&A](./rag/pdf-rag.ipynb)
 
