@@ -10,3 +10,6 @@ To run these Jupyter notebooks, you need to have [Kotlin kernel](https://github.
 
 * [PDF Q&A](./rag/pdf-rag.ipynb)
 
+## Memory
+
+* [In-memory](./memory/in-memory.ipynb)
