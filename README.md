@@ -4,11 +4,9 @@ To run these Jupyter notebooks, you need to have [Kotlin kernel](https://github.
 
 ## Chat Client
 
-see [./chat-client/simple-chat-client.ipynb]
+* [Simple ChatClient](./chat-client/simple-chat-client.ipynb)
 
 ## RAG
 
-### PDF Q&A
-
-see [./rag/pdf-qa.ipynb]
+* [PDF Q&A](./rag/pdf-qa.ipynb)
 
