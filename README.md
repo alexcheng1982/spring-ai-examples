@@ -4,9 +4,10 @@ To run these Jupyter notebooks, you need to have [Kotlin kernel](https://github.
 
 Most of examples use [Ollama](https://ollama.com/) to run local models. The default chat model is Llama 3.2 1b.
 
-## Chat Client
+## Chat
 
-* [Simple ChatClient](./chat-client/simple-chat-client.ipynb)
+* [Ollama](./chat-client/ollama-chat.ipynb)
+* [OpenAI](./chat-client/openai-chat.ipynb)
 
 ## RAG
 
