@@ -8,6 +8,7 @@ Most of examples use [Ollama](https://ollama.com/) to run local models. The defa
 
 * [Ollama](./chat-client/ollama-chat.ipynb)
 * [OpenAI](./chat-client/openai-chat.ipynb)
+* [llamafile](./chat-client/llamafile.ipynb)
 
 ## RAG
 
